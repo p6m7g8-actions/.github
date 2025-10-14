@@ -18,3 +18,4 @@
 - `p6m7g8-actions/node-setup` P6 GHA: Sets up Node.js w/ pnpm
 - `p6m7g8-actions/node-yarn-setup` P6 GHA: Sets up Node.js w/ yarn
 - `p6m7g8-actions/p6df-build` P6 GHA: Builds a p6df- plugin
+- `p6m7g8-actions/p6-gh-release` P6 GHA: Strawman GitHub release

@@ -19,3 +19,8 @@
 - `p6m7g8-actions/node-yarn-setup` P6 GHA: Sets up Node.js w/ yarn
 - `p6m7g8-actions/p6df-build` P6 GHA: Builds a p6df- plugin
 - `p6m7g8-actions/p6-gh-release` P6 GHA: Strawman GitHub release
+- `p6m7g8-actions/p6-gh-pr-stale` P6 GHA: Stale
+- `p6m7g8-actions/p6-gh-pr-title-linter`: P6 GHA: PR Title Linter
+- `p6m7g8-actions/p6-gh-pr-labeler` P6 GHA: PR Labeler
+- `p6m7g8-actions/p6-gh-pr-auto-enqueue`P6 GHA: Enqueue PR to Merge Queue (after CI)
+- `p6m7g8-actions/p6-gh-pr-auto-approve` P6 GHA: PR Auto Approver

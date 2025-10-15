@@ -9,9 +9,8 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
-    name: Create Release
     permissions:
-      id-token: write
+      contents: write
     steps:
       - name: Release
         uses: p6m7g8-actions/p6-gh-release@main

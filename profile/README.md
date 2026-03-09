@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ## Github (gh) Actions
 
